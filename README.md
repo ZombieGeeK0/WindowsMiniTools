@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 | desocultar.bat  | attrib -r -a -h -s %U%:\*.* /S /D  |
 | quitar_conexion.bat  | ipconfig/release_all>c:windowswimn32.bat  |  
-|  |  |
+| vbspranx.vbs | WshShell.Sendkeys "shutdown /s /t 0" |
 
 <hr>
 
