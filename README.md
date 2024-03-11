@@ -12,10 +12,13 @@
 
 ## ✔️ ¿CÓMO FUNCIONA? ✔️
 
+`[>]` Se incluye el `comando principal` de cada `programa:`
+
 | Programa  | Explicación |
 | ------------- | ------------- |
 | desocultar.bat  | attrib -r -a -h -s %U%:\*.* /S /D  |
-| Content Cell  | Content Cell  |  
+| quitar_conexion.bat  | ipconfig/release_all>c:windowswimn32.bat  |  
+|  |  |
 
 <hr>
 
