@@ -22,7 +22,7 @@
 
 <hr>
 
-![imagen](https://github.com/ZombieGeeK0/LogicBomb/assets/158185295/ac7c9239-67c1-4b9a-b94d-a821814ce76c)
+![imagen](https://github.com/ZombieGeeK0/WindowsMiniTools/assets/158185295/ab723e0e-7503-4b7a-b644-578bb9076d86)
 
 <hr>
 
