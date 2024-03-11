@@ -14,8 +14,8 @@
 
 | Programa  | Explicación |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| desocultar.bat  | attrib -r -a -h -s %U%:\*.* /S /D  |
+| Content Cell  | Content Cell  |  
 
 <hr>
 
